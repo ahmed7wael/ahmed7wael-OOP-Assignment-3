@@ -1,0 +1,15 @@
+D:\Simualtion\ahmed7wael-OOP-Assignment-3\Assigment_OOP_3\Refactoring\bin\Debug\net10.0\Refactoring.exe
+D:\Simualtion\ahmed7wael-OOP-Assignment-3\Assigment_OOP_3\Refactoring\bin\Debug\net10.0\Refactoring.deps.json
+D:\Simualtion\ahmed7wael-OOP-Assignment-3\Assigment_OOP_3\Refactoring\bin\Debug\net10.0\Refactoring.runtimeconfig.json
+D:\Simualtion\ahmed7wael-OOP-Assignment-3\Assigment_OOP_3\Refactoring\bin\Debug\net10.0\Refactoring.dll
+D:\Simualtion\ahmed7wael-OOP-Assignment-3\Assigment_OOP_3\Refactoring\bin\Debug\net10.0\Refactoring.pdb
+D:\Simualtion\ahmed7wael-OOP-Assignment-3\Assigment_OOP_3\Refactoring\obj\Debug\net10.0\Refactoring.GeneratedMSBuildEditorConfig.editorconfig
+D:\Simualtion\ahmed7wael-OOP-Assignment-3\Assigment_OOP_3\Refactoring\obj\Debug\net10.0\Refactoring.AssemblyInfoInputs.cache
+D:\Simualtion\ahmed7wael-OOP-Assignment-3\Assigment_OOP_3\Refactoring\obj\Debug\net10.0\Refactoring.AssemblyInfo.cs
+D:\Simualtion\ahmed7wael-OOP-Assignment-3\Assigment_OOP_3\Refactoring\obj\Debug\net10.0\Refactoring.csproj.CoreCompileInputs.cache
+D:\Simualtion\ahmed7wael-OOP-Assignment-3\Assigment_OOP_3\Refactoring\obj\Debug\net10.0\Refactoring.sourcelink.json
+D:\Simualtion\ahmed7wael-OOP-Assignment-3\Assigment_OOP_3\Refactoring\obj\Debug\net10.0\Refactoring.dll
+D:\Simualtion\ahmed7wael-OOP-Assignment-3\Assigment_OOP_3\Refactoring\obj\Debug\net10.0\refint\Refactoring.dll
+D:\Simualtion\ahmed7wael-OOP-Assignment-3\Assigment_OOP_3\Refactoring\obj\Debug\net10.0\Refactoring.pdb
+D:\Simualtion\ahmed7wael-OOP-Assignment-3\Assigment_OOP_3\Refactoring\obj\Debug\net10.0\Refactoring.genruntimeconfig.cache
+D:\Simualtion\ahmed7wael-OOP-Assignment-3\Assigment_OOP_3\Refactoring\obj\Debug\net10.0\ref\Refactoring.dll
