@@ -1,4 +1,7 @@
 <Solution>
+  <Folder Name="/Linked In/">
+    <File Path="Linked.md" />
+  </Folder>
   <Project Path="Collections&amp;Extension Methods/Collections&amp;Extension Methods.csproj" />
   <Project Path="Generics/Generics.csproj" Id="a8e2a608-6886-4678-bbc5-05c7445dcedb" />
   <Project Path="Refactoring/Refactoring.csproj" />

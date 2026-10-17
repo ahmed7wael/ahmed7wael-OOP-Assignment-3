@@ -15,3 +15,9 @@
   ```'T' does not contain a definition for 'Id' and no accessible extension method 'Id' accepting a first argument of type 'T' could be found (are you missing a using directive or an assembly reference?)
   CS1061: مفيش حاجه بت implement وبتاكد ان جواها ال Id property
   ```
+
+
+## Step 6 — Unconstrained Store Instantiation
+
+- **Why does `new Store()` not compile?**
+  عشان ال compiler مش عارف يحدد نوع T وده بيخليه مش قادر يعمل new Store() من غير ما يعرف نوع T
