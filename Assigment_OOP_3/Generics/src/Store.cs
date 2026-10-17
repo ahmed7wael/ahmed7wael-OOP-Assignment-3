@@ -1,6 +1,6 @@
 ﻿namespace Generics.src
 {
-    public class Store<T> where T : class
+    public class Store<T> where T : class, IHasId
     {
         private readonly List<T> _items = new List<T>();
         public void Add(T item)
@@ -27,7 +27,7 @@
             var student = GetById(item.Id);
             if (student != null)
             {
-                _items.Remove(student);
+                _items.Remove(item);
             }
         }
     }
